@@ -4,7 +4,7 @@
     "url": "https://mastodon.social.thivinfo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.social.thivinfo.com.ico",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 718,
     "timeYear": 718,
     "dailyMinutesDown": {
+      "2025-02-10": 0,
       "2025-01-30": 15
     }
   },
