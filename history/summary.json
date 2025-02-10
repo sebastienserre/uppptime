@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.social.thivinfo.com.ico",
     "slug": "mastodon",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "96.35%",
     "uptimeWeek": "99.48%",
-    "uptimeMonth": "99.55%",
-    "uptimeYear": "99.55%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 745,
     "timeDay": 1068,
-    "timeWeek": 853,
+    "timeWeek": 880,
     "timeMonth": 745,
     "timeYear": 745,
     "dailyMinutesDown": {
@@ -25,7 +25,7 @@
     "url": "https://thivinfo.com",
     "icon": "https://icons.duckduckgo.com/ip3/thivinfo.com.ico",
     "slug": "thivinfo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,9 +33,11 @@
     "uptimeYear": "100.00%",
     "time": 1558,
     "timeDay": 1526,
-    "timeWeek": 1363,
+    "timeWeek": 1431,
     "timeMonth": 1558,
     "timeYear": 1558,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-10": 0
+    }
   }
 ]
