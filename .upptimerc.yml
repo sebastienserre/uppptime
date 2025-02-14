@@ -7,6 +7,8 @@ sites:
     url: https://mastodon.social.thivinfo.com/
   - name: thivinfo.com
     url: https://thivinfo.com
+  - name: cloud.serre.xyz
+    url: https://cloud.serre.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
