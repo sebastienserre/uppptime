@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.social.thivinfo.com.ico",
     "slug": "mastodon",
     "status": "up",
-    "uptime": "99.82%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.82%",
-    "uptimeYear": "99.82%",
+    "uptime": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.83%",
     "time": 749,
     "timeDay": 777,
     "timeWeek": 720,
     "timeMonth": 749,
     "timeYear": 749,
     "dailyMinutesDown": {
-      "2025-02-27": 6,
       "2025-02-10": 53,
       "2025-01-30": 15
     }
@@ -26,7 +25,7 @@
     "url": "https://thivinfo.com",
     "icon": "https://icons.duckduckgo.com/ip3/thivinfo.com.ico",
     "slug": "thivinfo-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -37,7 +36,9 @@
     "timeWeek": 1169,
     "timeMonth": 1375,
     "timeYear": 1375,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-27": 0
+    }
   },
   {
     "name": "cloud.serre.xyz",
@@ -45,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.serre.xyz.ico",
     "slug": "cloud-serre-xyz",
     "status": "up",
-    "uptime": "97.15%",
+    "uptime": "97.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.72%",
-    "uptimeMonth": "97.15%",
-    "uptimeYear": "97.15%",
+    "uptimeMonth": "97.16%",
+    "uptimeYear": "97.16%",
     "time": 893,
     "timeDay": 773,
     "timeWeek": 821,
