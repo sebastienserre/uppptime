@@ -25,19 +25,19 @@
     "url": "https://thivinfo.com",
     "icon": "https://icons.duckduckgo.com/ip3/thivinfo.com.ico",
     "slug": "thivinfo-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1375,
-    "timeDay": 1502,
-    "timeWeek": 1169,
-    "timeMonth": 1375,
-    "timeYear": 1375,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.33%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1387,
+    "timeDay": 1666,
+    "timeWeek": 1235,
+    "timeMonth": 1387,
+    "timeYear": 1387,
     "dailyMinutesDown": {
-      "2025-02-27": 0
+      "2025-02-27": 10
     }
   },
   {
