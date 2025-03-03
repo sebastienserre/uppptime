@@ -13,7 +13,7 @@
     "time": 763,
     "timeDay": 775,
     "timeWeek": 841,
-    "timeMonth": 802,
+    "timeMonth": 806,
     "timeYear": 763,
     "dailyMinutesDown": {
       "2025-02-10": 53,
@@ -34,7 +34,7 @@
     "time": 1829,
     "timeDay": 1924,
     "timeWeek": 2592,
-    "timeMonth": 1826,
+    "timeMonth": 1860,
     "timeYear": 1829,
     "dailyMinutesDown": {
       "2025-02-28": 71,
@@ -46,18 +46,19 @@
     "url": "https://cloud.serre.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/cloud.serre.xyz.ico",
     "slug": "cloud-serre-xyz",
-    "status": "up",
-    "uptime": "97.70%",
+    "status": "down",
+    "uptime": "97.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.70%",
-    "uptimeYear": "97.70%",
+    "uptimeMonth": "97.75%",
+    "uptimeYear": "97.75%",
     "time": 905,
     "timeDay": 766,
     "timeWeek": 877,
     "timeMonth": 905,
     "timeYear": 905,
     "dailyMinutesDown": {
+      "2025-03-03": 0,
       "2025-02-21": 230,
       "2025-02-14": 321
     }
