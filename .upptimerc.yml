@@ -4,7 +4,7 @@ repo: uppptime # The name of this repository
 
 sites:
   - name: Mastodon
-    url: https://mastodon.social.thivinfo.com/
+    url: https://mastodon.thivinfo.com/
   - name: thivinfo.com
     url: https://thivinfo.com
   - name: cloud.serre.xyz
