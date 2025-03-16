@@ -8,9 +8,7 @@ sites:
   - name: thivinfo.com
     url: https://thivinfo.com
   - name: cloud.serre.xyz
-    url: https://cloud.serre.xyz
-  - name: support.thivinfo.com/
-    url: https://support.thivinfo.com/
+    url: https://cloud.serre.xy
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
