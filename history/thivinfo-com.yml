@@ -1,7 +1,7 @@
 url: https://thivinfo.com
-status: up
-code: 200
-responseTime: 1397
-lastUpdated: 2025-12-04T04:11:59.396Z
+status: down
+code: 503
+responseTime: 313
+lastUpdated: 2025-12-04T09:39:36.931Z
 startTime: 2025-01-30T21:32:04.498Z
 generator: Upptime <https://github.com/upptime/upptime>
