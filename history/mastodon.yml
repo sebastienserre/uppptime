@@ -1,7 +1,7 @@
 url: https://mastodon.thivinfo.com/
-status: down
-code: 502
-responseTime: 1496
-lastUpdated: 2026-01-01T20:45:20.224Z
+status: up
+code: 200
+responseTime: 613
+lastUpdated: 2026-01-01T20:53:20.063Z
 startTime: 2025-01-30T20:27:40.209Z
 generator: Upptime <https://github.com/upptime/upptime>
