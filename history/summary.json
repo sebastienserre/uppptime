@@ -4,17 +4,17 @@
     "url": "https://mastodon.thivinfo.com/",
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.thivinfo.com.ico",
     "slug": "mastodon",
-    "status": "down",
+    "status": "up",
     "uptime": "99.06%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "87.09%",
-    "uptimeMonth": "86.72%",
-    "uptimeYear": "98.63%",
+    "uptimeDay": "95.95%",
+    "uptimeWeek": "86.51%",
+    "uptimeMonth": "86.62%",
+    "uptimeYear": "98.62%",
     "time": 4927,
-    "timeDay": 907,
-    "timeWeek": 680,
-    "timeMonth": 920,
-    "timeYear": 5329,
+    "timeDay": 931,
+    "timeWeek": 694,
+    "timeMonth": 922,
+    "timeYear": 5325,
     "dailyMinutesDown": {
       "2026-01-19": 62,
       "2026-01-21": 16,
@@ -54,7 +54,7 @@
       "2026-07-14": 21,
       "2026-07-15": 506,
       "2026-07-16": 117,
-      "2026-07-17": 0
+      "2026-07-17": 58
     }
   },
   {
