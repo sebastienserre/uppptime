@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mastodon.thivinfo.com.ico",
     "slug": "mastodon",
     "status": "down",
-    "uptime": "99.11%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "98.41%",
+    "uptime": "99.10%",
+    "uptimeDay": "91.58%",
+    "uptimeWeek": "98.80%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "98.39%",
     "time": 4598,
     "timeDay": 832,
     "timeWeek": 782,
@@ -60,7 +60,7 @@
       "2026-09-28": 370,
       "2026-10-19": 52,
       "2026-10-18": 56,
-      "2026-11-12": 0
+      "2026-11-12": 121
     }
   },
   {
@@ -69,7 +69,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.serre.xyz.ico",
     "slug": "cloud-serre-xyz",
     "status": "up",
-    "uptime": "84.77%",
+    "uptime": "84.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
